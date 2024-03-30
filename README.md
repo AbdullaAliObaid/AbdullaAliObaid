@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdulla Ali Obaid
+- 👀 I’m interested in cybersecurity & application development
+- 🌱 I’m currently learning cybersecurity within Zayed University
+- 📫 Reach me on my email: aabdullawork@gmail.com
